@@ -1,5 +1,7 @@
 # Signal（Seek）
 
+文档定位
+
 Signal（Seek）是Signal体系的工程探索文档。
 
 它不是协议。协议定义Signal是什么——那是《Signal》的工作。
